@@ -55,7 +55,6 @@ After Clash for Windows runs, if **Disconnected to Clash** appears in the lower 
 - [mathiasbynens/emoji-regex](https://github.com/mathiasbynens/emoji-regex) (MIT)
 - [sindresorhus/got](https://github.com/sindresorhus/got) (MIT)
 - [lodash/lodash](https://github.com/lodash/lodash) (MIT)
-- [pvorb/node-md5](https://github.com/pvorb/node-md5) (BSD-3-Clause)
 - [moment/moment](https://github.com/moment/moment) [MIT]
 - [jrop/nedb-promise](https://github.com/jrop/nedb-promise) (ISC)
 - [ironSource/node-regedit](https://github.com/ironSource/node-regedit) (MIT)
