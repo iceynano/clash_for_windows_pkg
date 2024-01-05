@@ -1,21 +1,6 @@
 ## Clash for Windows
 
-![Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/imgs/demo4.png?raw=true)
-
-<div>
-  <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">
-    <img src="https://img.shields.io/github/release/fndroid/clash_for_windows_pkg.svg?color=%230090ff&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">
-    <img src="https://img.shields.io/github/release-date/fndroid/clash_for_windows_pkg.svg?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Fndroid/clash_for_windows_pkg/releases">
-    <img src="https://img.shields.io/github/downloads/fndroid/clash_for_windows_pkg/latest/total.svg?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Fndroid/clash_for_windows_pkg/issues">
-    <img src="https://img.shields.io/github/issues/fndroid/clash_for_windows_pkg.svg?style=for-the-badge" />
-  </a>
-</div>
+![Clash for Windows](https://github.com/iceynano/clash_for_windows_pkg/blob/master/imgs/demo4.png?raw=true)
 
 ### Keywords
 - Clash : A multi-platform & rule-base tunnel, [Github](https://github.com/Dreamacro/clash)
@@ -32,11 +17,11 @@ The first time you start the software, corresponding dependent files will be aut
 
 #### Local file (Drag & Drop)
 
-![](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/imgs/drop.gif?raw=true)
+![](https://github.com/iceynano/clash_for_windows_pkg/blob/master/imgs/drop.gif?raw=true)
 
 #### Remote file (Download from URL)
 
-![](https://github.com/Fndroid/clash_for_windows_pkg/blob/master/imgs/drop2.gif?raw=true)
+![](https://github.com/iceynano/clash_for_windows_pkg/blob/master/imgs/drop2.gif?raw=true)
 
 ### Errors
 After Clash for Windows runs, if **Disconnected to Clash** appears in the lower left corner, it means that the GUI cannot start the Clash core process. Usually, the configuration file is incorrect. You can enter the configuration file directory and open the **logs** directory. Then select the latest log for troubleshooting.
